@@ -1,7 +1,5 @@
-
-## IDV Notebook
-
-Simply moving my IDV Notebook code to here for organization. And also so i look cool. Nothing's changed about the code.
+# IDV Notebook
+Character bio HTML based on the IDV notebook for toyhou.se
 
 [Toyhou.se listing here](https://toyhou.se/20043677.idv-notebook-f2u-)
 
